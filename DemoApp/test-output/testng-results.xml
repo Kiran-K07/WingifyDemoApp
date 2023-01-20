@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[123456]]>
+    </line>
+    <line>
+      <![CDATA[avbghhjs]]>
+    </line>
+    <line>
+      <![CDATA[Sorted]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-20T15:28:51 IST" name="Default suite" finished-at="2023-01-20T15:29:27 IST" duration-ms="35726">
+    <groups>
+    </groups>
+    <test started-at="2023-01-20T15:28:51 IST" name="Default test" finished-at="2023-01-20T15:29:27 IST" duration-ms="35726">
+      <class name="com.sakshi.testscript.Login">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:28:51 IST" name="openbrowser" finished-at="2023-01-20T15:28:53 IST" duration-ms="1410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:28:53 IST" name="login" finished-at="2023-01-20T15:28:55 IST" duration-ms="2315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="emptyUsnCheck()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:28:55 IST" name="emptyUsnCheck" finished-at="2023-01-20T15:28:55 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyUsnCheck -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:28:55 IST" name="logout" finished-at="2023-01-20T15:28:58 IST" duration-ms="3006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:28:58 IST" name="login" finished-at="2023-01-20T15:28:59 IST" duration-ms="943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="emptyUsnPwdCheck()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:28:59 IST" name="emptyUsnPwdCheck" finished-at="2023-01-20T15:28:59 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyUsnPwdCheck -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:28:59 IST" name="logout" finished-at="2023-01-20T15:29:02 IST" duration-ms="3007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:02 IST" name="login" finished-at="2023-01-20T15:29:03 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="emptypwdCheck()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:03 IST" name="emptypwdCheck" finished-at="2023-01-20T15:29:03 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[123456]]>
+            </line>
+            <line>
+              <![CDATA[avbghhjs]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emptypwdCheck -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:03 IST" name="logout" finished-at="2023-01-20T15:29:06 IST" duration-ms="3005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:06 IST" name="login" finished-at="2023-01-20T15:29:06 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="isSelected()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:06 IST" name="isSelected" finished-at="2023-01-20T15:29:06 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSelected -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:06 IST" name="logout" finished-at="2023-01-20T15:29:09 IST" duration-ms="3013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:09 IST" name="login" finished-at="2023-01-20T15:29:10 IST" duration-ms="963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="isSorted()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:10 IST" name="isSorted" finished-at="2023-01-20T15:29:16 IST" duration-ms="5752" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sorted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- isSorted -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:16 IST" name="logout" finished-at="2023-01-20T15:29:19 IST" duration-ms="3000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:19 IST" name="login" finished-at="2023-01-20T15:29:19 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="ischecked()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:19 IST" name="ischecked" finished-at="2023-01-20T15:29:19 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ischecked -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:19 IST" name="logout" finished-at="2023-01-20T15:29:22 IST" duration-ms="3003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:22 IST" name="login" finished-at="2023-01-20T15:29:24 IST" duration-ms="1498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="placeHolderCheck()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:24 IST" name="placeHolderCheck" finished-at="2023-01-20T15:29:24 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeHolderCheck -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:24 IST" name="logout" finished-at="2023-01-20T15:29:27 IST" duration-ms="3011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closebrowse()[pri:0, instance:com.sakshi.testscript.Login@46cdf8bd]" started-at="2023-01-20T15:29:27 IST" name="closebrowse" finished-at="2023-01-20T15:29:27 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowse -->
+      </class> <!-- com.sakshi.testscript.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
